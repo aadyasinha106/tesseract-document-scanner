@@ -14,3 +14,4 @@ def preprocess_image(image_path):
     )[1]
 
     return thresh
+    
